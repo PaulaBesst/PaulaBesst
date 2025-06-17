@@ -30,10 +30,10 @@ and Designing interactive dashboards and impactful visualizations.
 
 ## 🤝 Let's Collaborate!
 I'm always excited to work on:
--  **Data-driven projects** that solve real business problems
--  **Analytical challenges** requiring statistical insights
--  **Visualization projects** that make complex data accessible
--  **Open-source initiatives** in the data science community
+-  ***Data-driven projects*** that solve real business problems
+-  ***Analytical challenges*** requiring statistical insights
+-  ***Visualization projects*** that make complex data accessible
+-  ***Open-source initiatives*** in the data science community
 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaBesst&layout=compact&theme=radical)](https://github.com/PaulaBesst)
