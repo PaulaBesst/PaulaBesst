@@ -1,7 +1,7 @@
-👋 Hi, I'm @PaulaBesst
-I'm a Data Analyst
-📈 I love uncovering hidden patterns and telling compelling stories through data visualization
-💞️ I'm looking to collaborate on data-driven projects that solve real-world problems
+- *👋 Hi, I'm @PaulaBesst*
+- *I'm a Data Analyst*
+- *📈 I love uncovering hidden patterns and telling compelling stories through data visualization*
+- *💞️ I'm looking to collaborate on data-driven projects that solve real-world problems*
 
 ### 📊 My Data Science Toolkit
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
