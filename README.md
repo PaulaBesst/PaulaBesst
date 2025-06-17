@@ -11,9 +11,6 @@ I love uncovering hidden patterns and telling compelling stories through data vi
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-- ***Programming & Analytics:*** Python, Pandas, Jupyter, SQL
-- ***Visualization:*** Power BI, Matplotlib, Seaborn, Plotly, Excel
-- ***Business Tools:*** Advanced Excel, Data Modeling, Reporting
 
 ### What I'm Currently Working On
 -  Building automated reporting dashboards
