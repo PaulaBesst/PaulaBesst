@@ -1,9 +1,9 @@
 # Hi there! 👋 I'm Paula
 
-## About Me
+### ☺️About Me
 I'm a passionate **Data Analyst** who transforms raw data into actionable insights that drive business decisions. I love uncovering hidden patterns and telling compelling stories through data visualization.
 
-## 🔍 What I Do
+### 🔍 What I Do
 - **Data Analysis & Visualization** - Creating interactive dashboards and meaningful charts
 - **Python Analytics** - Pandas, NumPy, Matplotlib, Seaborn, Plotly
 - **Statistical Analysis** - Hypothesis testing, regression analysis, and predictive modeling
@@ -11,7 +11,7 @@ I'm a passionate **Data Analyst** who transforms raw data into actionable insigh
 - **Business Intelligence** - KPI tracking, performance metrics, and reporting
 - **Exploratory Data Analysis** - Finding insights in complex datasets
 
-## 💻 Tech Stack
+### 📊 Data Science Toolkit
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -20,7 +20,7 @@ I'm a passionate **Data Analyst** who transforms raw data into actionable insigh
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
-## 🌟 What I'm Currently Working On
+### What I'm Currently Working On
 -  Building automated reporting dashboards
 -  Exploring machine learning applications in business analytics
 -  Expanding my knowledge in advanced statistical methods
@@ -32,7 +32,7 @@ I'm always excited to work on:
 -  **Visualization projects** that make complex data accessible
 -  **Open-source initiatives** in the data science community
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaBesst&layout=compact&theme=radical)](https://github.com/PaulaBesst)
 
@@ -42,7 +42,7 @@ I'm always excited to work on:
 ![GitHub Streak](https://streak-stats.demolab.com/?user=PaulaBesst&theme=radical)
 -->
 
-## Let's Connect!
+### 📧Let's Connect!
 -  **Email**: [paulabest248@gmail.com]
 -  **LinkedIn**: [www.linkedin.com/in/paula-obeng-bioh-38a58a190]
 
