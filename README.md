@@ -32,7 +32,6 @@ I'm always excited to work on:
 -  **Visualization projects** that make complex data accessible
 -  **Open-source initiatives** in the data science community
 
-### 📊 GitHub Stats
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaBesst&layout=compact&theme=radical)](https://github.com/PaulaBesst)
 
@@ -41,12 +40,6 @@ I'm always excited to work on:
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=PaulaBesst&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=PaulaBesst&theme=radical)
 -->
-
-### 📧Let's Connect!
--  **Email**: [paulabest248@gmail.com]
--  **LinkedIn**: [www.linkedin.com/in/paula-obeng-bioh-38a58a190]
-
-
 ---
 
 *"Data is the new oil, but analytics is the refinery that turns it into insights."*
