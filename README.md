@@ -33,7 +33,6 @@ I'm always excited to work on:
 -  **Open-source initiatives** in the data science community
 
 ## 📊 GitHub Stats
-![Paula's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaulaBesst&show_icons=true&theme=radical&cache_seconds=1800)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaBesst&layout=compact&theme=radical)](https://github.com/PaulaBesst)
 
