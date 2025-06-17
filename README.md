@@ -12,14 +12,13 @@ I love uncovering hidden patterns and telling compelling stories through data vi
 - **Business Intelligence** - KPI tracking, performance metrics, and reporting
 - **Exploratory Data Analysis** - Finding insights in complex datasets
 
-### 📊 Data Science Toolkit
+### 📊 My Data Science Toolkit
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 ### What I'm Currently Working On
 -  Building automated reporting dashboards
