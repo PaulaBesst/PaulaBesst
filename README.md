@@ -5,12 +5,12 @@ I'm a passionate **Data Analyst** who transforms raw data into actionable insigh
 I love uncovering hidden patterns and telling compelling stories through data visualization.
 
 ### 🔍 What I Do
-- **Data Analysis & Visualization** - Creating interactive dashboards and meaningful charts
-- **Python Analytics** - Pandas, NumPy, Matplotlib, Seaborn, Plotly
-- **Statistical Analysis** - Hypothesis testing, regression analysis, and predictive modeling
-- **Database Management** - SQL querying, data cleaning, and ETL processes
-- **Business Intelligence** - KPI tracking, performance metrics, and reporting
-- **Exploratory Data Analysis** - Finding insights in complex datasets
+- Data Analysis & Visualization: Designing interactive dashboards and impactful visualizations.
+- Python Analytics: Proficient in Pandas, NumPy, Matplotlib, Seaborn, and Plotly.
+- Statistical Analysis: Skilled in hypothesis testing, regression modeling, and predictive analytics.
+- Database Management: Experienced in SQL querying, data cleaning, and ETL pipelines.
+- Business Intelligence: Tracking KPIs, performance metrics, and delivering actionable reporting.
+- Exploratory Data Analysis: Deriving insights from complex datasets to inform decisions.
 
 ### 📊 My Data Science Toolkit
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
