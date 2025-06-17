@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Paula
 
 ### ☺️About Me
-I'm a passionate **Data Analyst** who transforms raw data into actionable insights that drive business decisions. 
+I'm a passionate **Data Analyst** who transforms raw data into actionable insights that drive business decisions.   
 I love uncovering hidden patterns and telling compelling stories through data visualization.
 
 ### 🔍 What I Do
