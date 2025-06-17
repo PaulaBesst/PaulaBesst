@@ -1,8 +1,7 @@
-# Hi there! 👋 I'm Paula
-
-### ☺️About Me
-I'm a passionate **Data Analyst** who transforms raw data into actionable insights that drive business decisions.   
-I love uncovering hidden patterns and telling compelling stories through data visualization.
+👋 Hi, I'm @PaulaBesst
+I'm a Data Analyst
+📈 I love uncovering hidden patterns and telling compelling stories through data visualization
+💞️ I'm looking to collaborate on data-driven projects that solve real-world problems
 
 ### 📊 My Data Science Toolkit
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -11,11 +10,6 @@ I love uncovering hidden patterns and telling compelling stories through data vi
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-
-### What I'm Currently Working On
--  Building automated reporting dashboards
--  Exploring machine learning applications in business analytics
--  Expanding my knowledge in advanced statistical methods
 
 ## 🤝 Let's Collaborate!
 I'm always excited to work on:
