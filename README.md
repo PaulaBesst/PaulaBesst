@@ -1,15 +1,15 @@
 # Hi there! 👋 I'm Paula
 
-## 🚀 About Me
+## About Me
 I'm a passionate **Data Analyst** who transforms raw data into actionable insights that drive business decisions. I love uncovering hidden patterns and telling compelling stories through data visualization.
 
 ## 🔍 What I Do
-- 📊 **Data Analysis & Visualization** - Creating interactive dashboards and meaningful charts
-- 🐍 **Python Analytics** - Pandas, NumPy, Matplotlib, Seaborn, Plotly
-- 📈 **Statistical Analysis** - Hypothesis testing, regression analysis, and predictive modeling
-- 🗃️ **Database Management** - SQL querying, data cleaning, and ETL processes
-- 📋 **Business Intelligence** - KPI tracking, performance metrics, and reporting
-- 🔬 **Exploratory Data Analysis** - Finding insights in complex datasets
+- **Data Analysis & Visualization** - Creating interactive dashboards and meaningful charts
+- **Python Analytics** - Pandas, NumPy, Matplotlib, Seaborn, Plotly
+- **Statistical Analysis** - Hypothesis testing, regression analysis, and predictive modeling
+- **Database Management** - SQL querying, data cleaning, and ETL processes
+- **Business Intelligence** - KPI tracking, performance metrics, and reporting
+- **Exploratory Data Analysis** - Finding insights in complex datasets
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -21,29 +21,33 @@ I'm a passionate **Data Analyst** who transforms raw data into actionable insigh
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 ## 🌟 What I'm Currently Working On
-- 📊 Building automated reporting dashboards
-- 🤖 Exploring machine learning applications in business analytics
-- 📚 Expanding my knowledge in advanced statistical methods
-- 🌐 Contributing to open-source data analysis projects
+-  Building automated reporting dashboards
+-  Exploring machine learning applications in business analytics
+-  Expanding my knowledge in advanced statistical methods
 
 ## 🤝 Let's Collaborate!
 I'm always excited to work on:
-- 📈 **Data-driven projects** that solve real business problems
-- 🔍 **Analytical challenges** requiring statistical insights
-- 📊 **Visualization projects** that make complex data accessible
-- 🚀 **Open-source initiatives** in the data science community
+-  **Data-driven projects** that solve real business problems
+-  **Analytical challenges** requiring statistical insights
+-  **Visualization projects** that make complex data accessible
+-  **Open-source initiatives** in the data science community
 
 ## 📊 GitHub Stats
-![Paula's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaulaBesst&show_icons=true&theme=radical)
+![Paula's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaulaBesst&show_icons=true&theme=radical&cache_seconds=1800)
 
-## 📫 Let's Connect!
-- 📧 **Email**: [Your Email Here]
-- 💼 **LinkedIn**: [Your LinkedIn Profile]
-- 🐦 **Twitter**: [@YourTwitterHandle]
-- 📱 **WhatsApp**: [Your WhatsApp Number]
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaBesst&layout=compact&theme=radical)](https://github.com/PaulaBesst)
+
+<!-- Alternative stats services if the above doesn't work -->
+<!-- 
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=PaulaBesst&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=PaulaBesst&theme=radical)
+-->
+
+## Let's Connect!
+-  **Email**: [paulabest248@gmail.com]
+-  **LinkedIn**: [www.linkedin.com/in/paula-obeng-bioh-38a58a190]
+
 
 ---
 
 *"Data is the new oil, but analytics is the refinery that turns it into insights."*
-
-⭐ **Feel free to explore my repositories and don't forget to star anything you find interesting!**
