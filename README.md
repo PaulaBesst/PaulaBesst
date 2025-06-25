@@ -26,5 +26,3 @@ I'm always excited to work on:
 ![GitHub Streak](https://streak-stats.demolab.com/?user=PaulaBesst&theme=radical)
 -->
 ---
-
-*"Data is the new oil, but analytics is the refinery that turns it into insights."*
