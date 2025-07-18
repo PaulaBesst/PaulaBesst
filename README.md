@@ -5,12 +5,13 @@
 #### *📊 My Data Science Toolkit*
 ![Python](https://img.shields.io/badge/-Python-9D4EDD?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-B19CD9?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-E0AAFF?style=flat-square&logo=power-bi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/-Pandas-7B2CBF?style=flat-square&logo=pandas&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-C77DFF?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-E0AAFF?style=flat-square&logo=power-bi&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-DA70D6?style=flat-square&logo=fastapi&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-DDA0DD?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-F8BBD9?style=flat-square&logo=tensorflow&logoColor=white)
+![Dash-Plotly](https://img.shields.io/badge/-Plotly-E6E6FA?style=flat-square&logo=plotly&logoColor=black)
 
 
 #### *🤝 Let's Collaborate!*
