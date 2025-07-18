@@ -3,12 +3,16 @@
 - *📈 I love uncovering hidden patterns and telling compelling stories through data visualization*
 
 #### *📊 My Data Science Toolkit*
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-9D4EDD?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-B19CD9?style=flat-square&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-7B2CBF?style=flat-square&logo=pandas&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-C77DFF?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-E0AAFF?style=flat-square&logo=power-bi&logoColor=black)
+![FastAPI](https://img.shields.io/badge/-FastAPI-DA70D6?style=flat-square&logo=fastapi&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-DDA0DD?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-F8BBD9?style=flat-square&logo=tensorflow&logoColor=white)
+![Plotly](https://img.shields.io/badge/-Plotly-E6E6FA?style=flat-square&logo=plotly&logoColor=black)
+
 
 #### *🤝 Let's Collaborate!*
 I'm always excited to work on:
