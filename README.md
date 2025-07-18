@@ -11,7 +11,7 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-DA70D6?style=flat-square&logo=fastapi&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-DDA0DD?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-F8BBD9?style=flat-square&logo=tensorflow&logoColor=white)
-![Dash-Plotly](https://img.shields.io/badge/-Plotly-E6E6FA?style=flat-square&logo=plotly&logoColor=black)
+![Dash-Plotly](https://img.shields.io/badge/-Plotly-F8BBD9?style=flat-square&logo=plotly&logoColor=black)
 
 
 #### *🤝 Let's Collaborate!*
